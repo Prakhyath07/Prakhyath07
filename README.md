@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Prakhyath Bhandary
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on Data science related projects
+- 👀 I’m interested in Developing Python Projects
+- 💞️ I’m looking to collaborate on Python related projects
 - 📫 How to reach me prakhyathb07@gmail.com
 
 <!---
